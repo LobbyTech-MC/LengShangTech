@@ -1,0 +1,806 @@
+LENGSHANG_LJGF:
+  item_group: rsc_LengShang_jq
+  item:
+    name: "&x&F&E&3&C&3&C炼&x&F&A&1&6&6&9金&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊"
+    material: BREWING_STAND 
+    lore: 
+      - "  "
+      - "&e制作永久buff的炼金工坊"
+      - "  "
+      - "&a多方块结构"
+  recipe:
+    1:
+      material_type: mc
+      material: EMERALD_BLOCK
+      amount: 1
+    2:
+      material_type: mc
+      material: DIAMOND_BLOCK
+      amount: 1
+    3:
+      material_type: mc
+      material: EMERALD_BLOCK
+      amount: 1
+    4:
+      material_type: mc
+      material: BREWING_STAND  
+      amount: 1  
+    5:
+      material_type: mc
+      material: GLASS
+      amount: 1
+    6:
+      material_type: mc
+      material: BREWING_STAND 
+      amount: 1
+    7:
+      material_type: mc
+      material: NETHERITE_BLOCK   
+      amount: 1
+    8:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    9:
+      material_type: mc
+      material: NETHERITE_BLOCK 
+      amount: 1
+  work: 5
+  sound: ANCIENT_ALTAR_FINISH_SOUND
+  recipes:
+    LENGSHANG_XHK_XJ_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: SUGAR
+          amount: 1
+        5:
+          material_type: mc
+          material: FEATHER
+          amount: 1
+        6:
+          material_type: mc
+          material: SUGAR
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_XJ_1
+         amount: 1
+    LENGSHANG_XHK_LL_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: BLAZE_POWDER
+          amount: 1
+        5:
+          material_type: mc
+          material: IRON_SWORD
+          amount: 1
+        6:
+          material_type: mc
+          material: BLAZE_POWDER
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_LL_1
+         amount: 1
+    LENGSHANG_XHK_JP_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: BLAZE_ROD
+          amount: 1
+        5:
+          material_type: mc
+          material: GOLDEN_PICKAXE
+          amount: 1
+        6:
+          material_type: mc
+          material: BLAZE_ROD
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_JP_1
+         amount: 1
+    LENGSHANG_XHK_SMHF_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: GHAST_TEAR
+          amount: 1
+        5:
+          material_type: mc
+          material: APPLE
+          amount: 1
+        6:
+          material_type: mc
+          material: GHAST_TEAR
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_SMHF_1
+         amount: 1
+    LENGSHANG_XHK_SJZL_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: GLISTERING_MELON_SLICE
+          amount: 1
+        5:
+          material_type: mc
+          material: REDSTONE
+          amount: 1
+        6:
+          material_type: mc
+          material: GLISTERING_MELON_SLICE
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_SJZL_1
+         amount: 1
+    LENGSHANG_XHK_YS_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: GOLDEN_CARROT
+          amount: 1
+        5:
+          material_type: slimefun
+          material: NIGHT_VISION_GOGGLES
+          amount: 1
+        6:
+          material_type: mc
+          material: GOLDEN_CARROT
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_YS_1
+         amount: 1
+    LENGSHANG_XHK_BH_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: APPLE
+          amount: 1
+        5:
+          material_type: mc
+          material: DIAMOND
+          amount: 1
+        6:
+          material_type: mc
+          material: APPLE
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_BH_1
+         amount: 1
+    LENGSHANG_XHK_KXTS_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: ENCHANTED_GOLDEN_APPLE
+          amount: 1
+        5:
+          material_type: mc
+          material: TURTLE_HELMET
+          amount: 1
+        6:
+          material_type: mc
+          material: ENCHANTED_GOLDEN_APPLE
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_KXTS_1
+         amount: 1
+    LENGSHANG_XHK_YINSHEN_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: FERMENTED_SPIDER_EYE
+          amount: 1
+        5:
+          material_type: mc
+          material: GOLDEN_CARROT
+          amount: 1
+        6:
+          material_type: mc
+          material: FERMENTED_SPIDER_EYE
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_YINSHEN_1
+         amount: 1
+    LENGSHANG_XHK_TYTS_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: RABBIT_FOOT
+          amount: 1
+        5:
+          material_type: mc
+          material: SUGAR
+          amount: 1
+        6:
+          material_type: mc
+          material: RABBIT_FOOT
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_TYTS_1
+         amount: 1
+    LENGSHANG_XHK_KH_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: MAGMA_CREAM
+          amount: 1
+        5:
+          material_type: mc
+          material: FLINT_AND_STEEL
+          amount: 1
+        6:
+          material_type: mc
+          material: MAGMA_CREAM
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_KH_1
+         amount: 1
+    LENGSHANG_XHK_SXHX_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: PUFFERFISH
+          amount: 1
+        5:
+          material_type: mc
+          material: HEART_OF_THE_SEA
+          amount: 1
+        6:
+          material_type: mc
+          material: PUFFERFISH
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_SXHX_1
+         amount: 1
+    LENGSHANG_XHK_XY_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: GLOW_BERRIES
+          amount: 1
+        5:
+          material_type: mc
+          material: LARGE_FERN
+          amount: 1
+        6:
+          material_type: mc
+          material: GLOW_BERRIES
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_XY_1
+         amount: 1
+    LENGSHANG_XHK_SHXS_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: BREAD
+          amount: 1
+        5:
+          material_type: mc
+          material: GOLDEN_APPLE
+          amount: 1
+        6:
+          material_type: mc
+          material: BREAD
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_SHXS_1
+         amount: 1
+    LENGSHANG_XHK_BXZZ_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: FERMENTED_SPIDER_EYE
+          amount: 1
+        5:
+          material_type: mc
+          material: GLOWSTONE_DUST
+          amount: 1
+        6:
+          material_type: mc
+          material: FERMENTED_SPIDER_EYE
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_BXZZ_1
+         amount: 1
+    LENGSHANG_XHK_HTDEH_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: HEART_OF_THE_SEA
+          amount: 1
+        5:
+          material_type: mc
+          material: WATER_BUCKET
+          amount: 1
+        6:
+          material_type: mc
+          material: HEART_OF_THE_SEA
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_HTDEH_1
+         amount: 1
+    LENGSHANG_XHK_CYNL_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: HEART_OF_THE_SEA
+          amount: 1
+        5:
+          material_type: mc
+          material: CONDUIT
+          amount: 1
+        6:
+          material_type: mc
+          material: HEART_OF_THE_SEA
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_CYNL_1
+         amount: 1
+    LENGSHANG_XHK_CZYX_1:
+      input:
+        1:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        2:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        3:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        4:
+          material_type: mc
+          material: EMERALD
+          amount: 1
+        5:
+          material_type: mc
+          material: HAY_BLOCK
+          amount: 1
+        6:
+          material_type: mc
+          material: EMERALD
+          amount: 1
+        7:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+        8:
+          material_type: slimefun
+          material: POWER_CRYSTAL
+          amount: 1
+        9:
+          material_type: slimefun
+          material: ELECTRIC_MOTOR
+          amount: 1
+      output:
+         material_type: slimefun
+         material: LENGSHANG_XHK_CZYX_1
+         amount: 1

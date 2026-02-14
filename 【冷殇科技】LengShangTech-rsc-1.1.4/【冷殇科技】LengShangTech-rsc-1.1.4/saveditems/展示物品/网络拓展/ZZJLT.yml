@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: LIGHT_BLUE_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"榨","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#EBBEF3","bold":false},{"text":"汁","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#EBBEF3","bold":false},{"text":"机","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#EBBEF3","bold":false},{"text":"蓝","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#EBBEF3","bold":false},{"text":"图","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#EBBEF3","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'

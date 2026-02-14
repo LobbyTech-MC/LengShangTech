@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: YELLOW_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"冶","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#E5C1E1","bold":false},{"text":"炼","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CDE6","bold":false},{"text":"炉","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#C0DAEB","bold":false},{"text":"蓝","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#ADE7F0","bold":false},{"text":"图","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#9BF4F6","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'

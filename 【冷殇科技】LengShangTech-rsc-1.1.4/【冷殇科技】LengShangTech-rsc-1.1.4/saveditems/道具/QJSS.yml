@@ -1,0 +1,14 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3955
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    display-name: '{"text":"","extra":[{"text":"全解圣书","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"右键","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false},{"text":"
+      以获得粘液科技所有研究","italic":false,"color":"gray"}]}'
+    custom-model-data: 2200313
+    PublicBukkitValues:
+      slimefun:slimefun_item: LENGSHANG_全解圣书

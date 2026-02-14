@@ -1,0 +1,38 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3955
+  type: NETHERITE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"破军"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"·"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"千刃"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"右键循环切换杀戮形态"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"斩魂"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":" | "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"血舞"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":" | "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"灭却"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"冷却 1 秒 | 杀戮之息 | 循环释放"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"斩魂："},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"45°扇形斩击，25伤害+3秒凋零II"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"血舞："},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"45°连击斩，首目标15+失明，次目标20+缓慢，递增伤害"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"灭却："},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"45°凋零斩，12伤害+5秒凋零III+范围爆炸8伤害"}],"text":""}'
+    enchants:
+      DAMAGE_ALL: 35
+      FIRE_ASPECT: 15
+      SWEEPING_EDGE: 10
+      LOOT_BONUS_MOBS: 10
+    Unbreakable: true
+    PublicBukkitValues:
+      slimefun:slimefun_item: LENGSHANG_PJQR
+    attribute-modifiers:
+      minecraft:generic.attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 40.0
+          name: generic.attackDamage
+          slot: HAND
+          uuid: 1200002d-0000-003e-0000-004000000007
+          operation: 0
+      minecraft:generic.attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 0.8
+          name: generic.attackSpeed
+          slot: HAND
+          uuid: 1200002d-0000-003e-0000-004000000008
+          operation: 0

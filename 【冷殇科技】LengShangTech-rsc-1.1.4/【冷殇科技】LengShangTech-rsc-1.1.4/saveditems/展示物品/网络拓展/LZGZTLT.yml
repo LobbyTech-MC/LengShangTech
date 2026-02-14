@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: LIME_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"量","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#AEAB8A","bold":false},{"text":"子","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#B9AF9A","bold":false},{"text":"工","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#C5B4AA","bold":false},{"text":"作","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D1B8BA","bold":false},{"text":"台","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#DCBDCA","bold":false},{"text":"蓝","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#E8C1DA","bold":false},{"text":"图","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#F4C6EB","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'

@@ -1,0 +1,186 @@
+LENGSHANG_黑曜石套装:
+  protection_types:
+    - 
+  fullSet: true
+  item_group: rsc_LENGSHANG_zb
+  helmet:
+    id: LENGSHANG_黑曜石战盔
+    material_type: saveditem
+    material: 套装系列/黑曜石/HYSTK
+    name: "&8黑曜石战盔"
+    lore: 
+      - "&7保护 VI"
+      - "&7爆炸保护 VI"
+      - "&7火焰保护 VI"
+      - "&7弹射物保护 VI"
+      - "&7摔落保护 VI"
+      - "&7耐久 X"
+      - "&7水下呼吸 I"
+      - "&7潮涌能量 I"
+      - "&7用黑曜石浇筑制造而成的头盔" 
+    glow: true
+    recipe_type: ARMOR_FORGE
+    recipe:
+      1:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      2:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      3:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      4:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      6:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+    potion_effects:
+      - WATER_BREATHING 0
+      - CONDUIT_POWER 0
+  chestplate:
+    id: LENGSHANG_黑曜石神甲
+    material_type: saveditem
+    material: 套装系列/黑曜石/HYSXJ
+    name: "&8黑曜石神甲"
+    lore: 
+      - "&7保护 VI"
+      - "&7爆炸保护 VI"
+      - "&7火焰保护 VI"
+      - "&7弹射物保护 VI"
+      - "&7摔落保护 VI"
+      - "&7耐久 X"
+      - "&7抗火 I"
+      - "&7生命恢复 II"
+      - "&7用黑曜石浇筑制造而成的胸甲" 
+    glow: true
+    recipe_type: ARMOR_FORGE
+    recipe:
+      1:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      3:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      4:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      5:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      6:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      7:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      8:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      9:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+    potion_effects:
+      - FIRE_RESISTANCE 0
+      - REGENERATION 1
+  leggings:
+    id: LENGSHANG_黑曜石护腿
+    material_type: saveditem
+    material: 套装系列/黑曜石/HYSHT
+    name: "&8黑曜石护腿"
+    lore: 
+      - "&7保护 VI"
+      - "&7爆炸保护 VI"
+      - "&7火焰保护 VI"
+      - "&7弹射物保护 VI"
+      - "&7摔落保护 VI"
+      - "&7耐久 X"
+      - "&7饱和 I"
+      - "&7跳跃提升 II"
+      - "&7用黑曜石浇筑制造而成的护腿" 
+    glow: true
+    recipe_type: ARMOR_FORGE
+    recipe:
+      1:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      2:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      3:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      4:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      6:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      7:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      9:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+    potion_effects:
+      - SATURATION 0
+      - JUMP_BOOST 1
+      - JUMP 1
+  boots:
+    id: LENGSHANG_黑曜石之靴
+    material_type: saveditem
+    material: 套装系列/黑曜石/HYSXZ
+    name: "&8黑曜石之靴"
+    lore: 
+      - "&7保护 VI"
+      - "&7爆炸保护 VI"
+      - "&7火焰保护 VI"
+      - "&7弹射物保护 VI"
+      - "&7摔落保护 VI"
+      - "&7耐久 X"
+      - "&7速度 II"
+      - "&7海豚的恩惠 I"
+      - "&7用黑曜石浇筑制造而成的靴子" 
+    glow: true
+    recipe_type: ARMOR_FORGE
+    recipe:
+      4:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      6:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      7:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+      9:
+        material_type: slimefun
+        material: LENGSHANG_黑曜石之钻
+        amount: 1
+    potion_effects:
+      - SPEED 1
+      - DOLPHINS_GRACE 0

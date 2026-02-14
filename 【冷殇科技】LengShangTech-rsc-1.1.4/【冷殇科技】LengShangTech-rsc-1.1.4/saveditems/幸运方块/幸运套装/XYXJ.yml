@@ -1,0 +1,15 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":"幸运甲","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+    enchants:
+      minecraft:blast_protection: 5
+      minecraft:projectile_protection: 10
+      minecraft:protection: 10
+      minecraft:thorns: 10
+      minecraft:unbreaking: 10
+      MENDING: 1

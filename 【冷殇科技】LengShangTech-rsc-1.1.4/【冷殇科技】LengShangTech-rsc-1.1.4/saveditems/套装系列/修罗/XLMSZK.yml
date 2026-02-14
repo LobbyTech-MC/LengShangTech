@@ -1,0 +1,46 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"#ff0040","text":"修罗·冥思战盔"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"冥思战盔，映现修罗之眼；凝视之下，敌胆俱裂。"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"血瞳睁开，摄魂夺魄；敌之伤痛，尽归吾身。"}],"text":""}'
+    enchants:
+      WATER_WORKER: 255
+      PROTECTION_EXPLOSIONS: 255
+      PROTECTION_FALL: 255
+      PROTECTION_FIRE: 255
+      PROTECTION_PROJECTILE: 255
+      PROTECTION_ENVIRONMENTAL: 255
+      OXYGEN: 255
+      THORNS: 255
+    Unbreakable: true
+    attribute-modifiers:
+      minecraft:generic.armor:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 5201314.0
+          name: "generic.armor"
+          slot: HEAD
+          uuid: 1200002d-0000-003e-0000-004000000014
+          operation: 0
+      minecraft:generic.armor_toughness:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 5201314.0
+          name: "generic.armor_toughness"
+          slot: HEAD
+          uuid: 1200002d-0000-003e-0000-004000000015
+          operation: 0
+      minecraft:generic.knockback_resistance:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 0.1
+          name: "generic.knockback_resistance"
+          slot: HEAD
+          uuid: 1200002d-0000-003e-0000-004000000016
+          operation: 0
+    script-listener: true
+    PublicBukkitValues:
+      slimefun:slimefun_item: INFINITY_CROWN

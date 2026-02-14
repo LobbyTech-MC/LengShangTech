@@ -1,8 +1,0 @@
-item:
-  ==: org.bukkit.inventory.ItemStack
-  v: 3105
-  type: PAINTING
-  meta:
-    ==: ItemMeta
-    meta-type: ENTITY_TAG
-    internal: H4sIAAAAAAAA/+NiYOBi4HTNK8ksqQxJTOdgYC9LLMpMzCth4MvNzEtNLkpMK7FKyyxKZWAAAImIzjQrAAAA

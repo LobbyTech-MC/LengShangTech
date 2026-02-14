@@ -1,0 +1,18 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3955
+  type: DIAMOND_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":"黑曜石战盔","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"水下呼吸 I","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"用黑曜石浇筑制造而成的头盔","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    enchants:
+      PROTECTION_EXPLOSIONS: 6
+      PROTECTION_FALL: 6
+      PROTECTION_FIRE: 6
+      PROTECTION_PROJECTILE: 6
+      PROTECTION_ENVIRONMENTAL: 6
+      DURABILITY: 10

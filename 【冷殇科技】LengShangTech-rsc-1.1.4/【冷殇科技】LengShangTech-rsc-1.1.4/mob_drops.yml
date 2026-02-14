@@ -1,0 +1,48 @@
+LENGSHANG_镧纱:
+  lateInit: false
+  item_group: rsc_LENGSHANG_BLX_CL
+  item:
+    name: '&a&l镧纱'
+    lore:
+    - '&7富含稀有元素！'
+    material_type: skull_hash
+    material: a14d3c57f80824b3839b8b220f2158bca505d497fd1c9e3f29f422b1e6206a45
+    amount: 1
+  entity: PHANTOM
+  chance: 6
+LENGSHANG_光腺:
+  lateInit: false
+  item_group: rsc_LENGSHANG_BLX_CL
+  item:
+    name: '&e&l光腺'
+    lore:
+    - '&7如星星般闪耀'
+    material_type: skull_hash
+    material: 5d225635fe66cced5e1f1030a11bfbe1e28a8745f920e7b7076eb669c902283
+    amount: 1
+  entity: GLOW_SQUID
+  chance: 4
+LENGSHANG_游商:
+  lateInit: false
+  item_group: rsc_LENGSHANG_BLX_CL
+  item:
+    name: '&b&l游商'
+    lore:
+    - '&7行商人的前世'
+    material_type: skull_hash
+    material: 5ccf9ea1a6e1b86ad60a804ff800b0dfd76d73e5c91f47f84bb7169306546012
+    amount: 1
+  entity: WANDERING_TRADER
+  chance: 3
+LENGSHANG_寂骸:
+  lateInit: false
+  item_group: rsc_LENGSHANG_BLX_CL
+  item:
+    name: '&8&l寂骸'
+    lore:
+    - '&7被遗忘在月球的流浪者'
+    material_type: skull_hash
+    material: 99f334426eca60de8d0982f1c43f182d0240b39736780e72596f6fc70ec3cdee
+    amount: 1
+  entity: STRAY
+  chance: 5

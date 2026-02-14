@@ -1,0 +1,17 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3955
+  type: DIAMOND_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":"黑曜石合金靴子","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"用坚硬的黑曜石合金制成的靴子","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    enchants:
+      PROTECTION_EXPLOSIONS: 6
+      PROTECTION_FALL: 6
+      PROTECTION_FIRE: 6
+      PROTECTION_PROJECTILE: 6
+      PROTECTION_ENVIRONMENTAL: 6
+      DURABILITY: 10

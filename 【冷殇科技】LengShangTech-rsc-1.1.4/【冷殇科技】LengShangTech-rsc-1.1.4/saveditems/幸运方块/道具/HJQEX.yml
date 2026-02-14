@@ -1,0 +1,21 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GOLDEN_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"§e黄金切尔西"}'
+    lore:
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"英雄可以受委屈,但是你不能踩我的切尔西"}],"text":""}'
+    attribute-modifiers:
+      minecraft:generic.movement_speed:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.5
+        name: ResourceKey[minecraft:attribute / minecraft:generic.movement_speed]
+        slot: FEET
+        operation: 0
+        uuid: 4b76d537-ce5c-47bb-99c2-4948a2af3b71
+    repair-cost: 32767
+    enchantment-glint-override: true
+    Unbreakable: true

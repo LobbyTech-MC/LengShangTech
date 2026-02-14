@@ -1,0 +1,11 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: PURPLE_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"UU 物质","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'
+    custom-model-data: 2200825

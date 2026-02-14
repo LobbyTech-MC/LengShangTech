@@ -1,0 +1,31 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"#ff0040","text":"修罗·断魂战斧"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"斧影裂空，魂断九幽；一斧落下，万灵寂灭。"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"斧刃所过，一线生机尽断。"}],"text":""}'
+      - '{"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"断魂斩"},{"bold":false,"italic":false,"color":"gray","text":"：对前方5格直线造成10000点真实伤害"}],"text":""}'
+    enchants:
+      DIG_SPEED: 255
+      LOOT_BONUS_BLOCKS: 255
+      LOOT_BONUS_MOBS: 255
+      FIRE_ASPECT: 255
+      DAMAGE_ALL: 255
+      DAMAGE_UNDEAD: 255
+      DAMAGE_ARTHROPODS: 255
+      SILK_TOUCH: 1
+    Unbreakable: true
+    attribute-modifiers:
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 520.0
+        name: ResourceKey[minecraft:attribute / minecraft:generic.attack_damage]
+        slot: HAND
+        uuid: 4a7aaef3-bee1-494d-aff4-57fa4d2b3702
+        operation: 0

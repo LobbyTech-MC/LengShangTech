@@ -1,0 +1,49 @@
+LENGSHANG_MTXJ:
+  lateInit: false
+  item_group: rsc_LENGSHANG_cl
+  item:
+    name: '{#FFB6C1}莓糖星酱'
+    lore:
+    - '{#FF9BB3}是一颗从棉花糖星系掉下来的小脑袋'
+    - '{#FF9BB3}软萌的粉色外壳里装着一整罐草莓气泡和闪闪星屑'
+    - '{#FF9BB3}谁敲一下都会“啵”地冒出甜甜圈味的彩虹'
+    material_type: skull_hash
+    material: f274a8a5ca66afeb2c7f162253a6c461d56b8511427a55857882a1f77aac8
+  max_deviation: 1
+  geo_name: '{#FFB6C1}莓糖星酱'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 30
+    nether: 30
+    the_end: 30
+LENGSHANG_BLX_BLS:
+  lateInit: false
+  item_group: rsc_LENGSHANG_BLX_CL
+  item:
+    name: '&b&l箔澜沙'
+    lore:
+    - '&7在深渊中留存有一丝痕迹'
+    material_type: skull_hash
+    material: 8988fe7f49072bd9be53d16e589ce72e0dca8c308b3e9dc6f43262a816e60473
+  max_deviation: 1
+  geo_name: '&b&l箔澜沙'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    nether: 1
+LENGSHANG_BLX_YTB:
+  lateInit: false
+  item_group: rsc_LENGSHANG_BLX_CL
+  item:
+    name: '&b&l陨土碑'
+    lore:
+    - '&7它撕开了一条裂缝...'
+    material_type: mc
+    material: STONE_SWORD
+  max_deviation: 1
+  geo_name: '&b&l陨土碑'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 1

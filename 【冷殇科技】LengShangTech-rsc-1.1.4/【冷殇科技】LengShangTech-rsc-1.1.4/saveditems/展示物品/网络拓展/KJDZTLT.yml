@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: ORANGE_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"盔","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CC9A","bold":false},{"text":"甲","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CC9A","bold":false},{"text":"锻","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CC9A","bold":false},{"text":"造","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CC9A","bold":false},{"text":"台","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CC9A","bold":false},{"text":"蓝","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CC9A","bold":false},{"text":"图","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#D2CC9A","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'

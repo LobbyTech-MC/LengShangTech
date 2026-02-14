@@ -1,0 +1,36 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"#ff0040","text":"修罗·戮世魔剑"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"生灵勿近，此乃禁令。吾之所在，即为生者禁区。"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"剑锋所向，万灵寂灭，戮世，即吾之天命。"}],"text":""}'
+      - '{"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"修罗审判"},{"bold":false,"italic":false,"color":"gray","text":"：右键清除半径15格内所有生灵！"}],"text":""}'
+    enchants:
+      FIRE_ASPECT: 255
+      LOOT_BONUS_MOBS: 255
+      DAMAGE_ALL: 255
+      DAMAGE_UNDEAD: 255
+      DAMAGE_ARTHROPODS: 255
+      SWEEPING_EDGE: 255
+    Unbreakable: true
+    attribute-modifiers:
+      minecraft:generic.attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 5201314.0
+          name: generic.attack_damage
+          slot: HAND
+          uuid: 00000001-0002-0003-0004-000000000004
+          operation: 0
+      minecraft:generic.attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 520.0
+          name: generic.attack_speed
+          slot: HAND
+          uuid: 00000005-0006-0007-0008-000000000008
+          operation: 0

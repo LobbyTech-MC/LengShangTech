@@ -1,0 +1,280 @@
+LENGSHANG_XX_M87WZNJQ:
+  lateInit: false
+  name: '{#F4A460}M87物质凝聚器'
+  lore:
+    - '&7此物品需要在 {#F4A460}M87物质凝聚器 &7中制作'
+  material_type: mc
+  material: ORANGE_CONCRETE
+LENGSHANG_XX_KJKYTJ:
+  lateInit: false
+  name: '{#2F4F4F}锟斤拷一体机'
+  lore:
+    - '&7此物品需要在 {#2F4F4F}锟斤拷一体机 &7中制作'
+  material_type: mc
+  material: POLISHED_DIORITE
+LENGSHANG_XX_HSNYRHJ:
+  lateInit: false
+  name: '{#FF4500}火山能源融合机'
+  lore:
+    - '&7此物品需要在 {#FF4500}火山能源融合机 &7中制作'
+  material_type: skull_hash
+  material: 68e4406c0f324f06f3e9b592675915f5e65a9b3a0358a680214d0e6229f6358
+LENGSHANG_XX_YSRLZZJ:
+  lateInit: false
+  name: '&b元素染料制造机'
+  lore:
+    - '&7此物品需要在 &b元素染料制造机 &7中制作'
+  material_type: mc
+  material: ENCHANTING_TABLE
+LENGSHANG_XX_CHZBDZJ:
+  lateInit: false
+  name: '&1彩&2虹&e装&c备&d锻造机'
+  lore:
+    - '&7此物品需要在 &1彩&2虹&e装&c备&d锻造机 &7中制作'
+  material_type: mc
+  material: ENCHANTING_TABLE
+LENGSHANG_XX_LSKJGZZ:
+  lateInit: false
+  name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&x&F&E&3&C&3&C工&x&F&A&1&6&6&9作&x&E&5&1&C&9&3站'
+  lore:
+    - '&7此物品需要在 &x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&x&F&E&3&C&3&C工&x&F&A&1&6&6&9作&x&E&5&1&C&9&3站 &7中制作'
+  material_type: mc
+  material: CRAFTING_TABLE
+LENGSHANG_XX_GNHXLMNQ:
+  lateInit: false
+  name: '&5概念化序列模拟器'
+  lore:
+    - '&7此物品需要在 &5概念化序列模拟器 &7中制作'
+  material_type: mc
+  material: BAMBOO_MOSAIC
+LENGSHANG_XX_DKSJJ:
+  lateInit: false
+  name: '&e电卡升级机'
+  lore:
+    - '&7此物品需要在 &e电卡升级机 &7中制作'
+  material_type: mc
+  material: CHISELED_SANDSTONE
+LENGSHANG_XX_LXZDGJJ:
+  lateInit: false
+  name: '&c乱序自动构建机'
+  lore:
+    - '&7此物品需要在 &c乱序自动构建机 &7中制作'
+  material_type: mc
+  material: DISPENSER
+LENGSHANG_XX_LSPQDGZJ:
+  lateInit: false
+  name: '&f冷殇牌奇点构造机'
+  lore:
+    - '&7此物品需要在 &f冷殇牌奇点构造机 &7中制作'
+  material_type: mc
+  material: QUARTZ_BRICKS
+LENGSHANG_XX_TMMH:
+  lateInit: false
+  name: '&6天&c命&d盲&5盒'
+  lore:
+    - '&7此物品需要在 &6天&c命&d盲&5盒 &7中获取'
+  material_type: skull_base64
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ZiYjQ1ZjRlYTFlNTRmODhlN2UwMDg1OWU4ZWM5YTU5ODI4MjNkODg4YjZlMWY2YWUxZDY5YTQxNGZmZjcwZiJ9fX0=
+LENGSHANG_XX_TMMHDHJ:
+  lateInit: false
+  name: '&6天&c命&d盲&5盒&a兑&b换&e机'
+  lore:
+    - '&7此物品需要在 &6天&c命&d盲&5盒&a兑&b换&e机 &7中获取'
+  material_type: skull_base64
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ZiYjQ1ZjRlYTFlNTRmODhlN2UwMDg1OWU4ZWM5YTU5ODI4MjNkODg4YjZlMWY2YWUxZDY5YTQxNGZmZjcwZiJ9fX0=
+LENGSHANG_XX_DDGF:
+  lateInit: false
+  name: '&x&F&E&3&C&3&C堆&x&F&A&1&6&6&9叠&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊'
+  lore:
+    - '&7此物品需要在 &x&F&E&3&C&3&C堆&x&F&A&1&6&6&9叠&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊 &7中制作'
+  material_type: skull_hash
+  material: 289804b7986a1fe08e9e2966dcd286f72edb52870ceae74cc6f0e0574cbf41e3
+LENGSHANG_XX_LJGF:
+  lateInit: false
+  name: '&x&F&E&3&C&3&C炼&x&F&A&1&6&6&9金&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊'
+  lore:
+    - '&7此物品需要在 &x&F&E&3&C&3&C炼&x&F&A&1&6&6&9金&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊 &7中制作'
+  material_type: mc
+  material: BREWING_STAND 
+LENGSHANG_XX_HCYJ:
+  lateInit: false
+  name: '{#FF3BFF}幻彩源晶'
+  lore:
+    - '&7挖掘石头时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_SJZXNJQ:
+  lateInit: false
+  name: '&6世界之心凝聚器'
+  lore:
+    - '&7此物品需要在 &6世界之心凝聚器 &7中制作'
+  material_type: skull_hash
+  material: e5c0358fb64eaac6db69a857f8987b5197fcea72609c060a8628da92266fd592
+LENGSHANG_XX_NTYJ:
+  lateInit: false
+  name: '&6泥土源晶'
+  lore:
+    - '&7挖掘泥土时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_SZYJ:
+  lateInit: false
+  name: '&6沙子源晶'
+  lore:
+    - '&7挖掘沙子时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_CFKYJ:
+  lateInit: false
+  name: '&6草方块源晶'
+  lore:
+    - '&7挖掘草方块时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_HGYYJ:
+  lateInit: false
+  name: '&6花岗岩源晶'
+  lore:
+    - '&7挖掘花岗岩时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_SCYYJ:
+  lateInit: false
+  name: '&6闪长岩源晶'
+  lore:
+    - '&7挖掘闪长岩时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_ASYYJ:
+  lateInit: false
+  name: '&6安山岩源晶'
+  lore:
+    - '&7挖掘安山岩时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_HYSYJ:
+  lateInit: false
+  name: '&6黑曜石源晶'
+  lore:
+    - '&7挖掘黑曜石时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_LHSYJ:
+  lateInit: false
+  name: '&6灵魂沙源晶'
+  lore:
+    - '&7挖掘灵魂沙时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_FJSYJ:
+  lateInit: false
+  name: '&6方解石源晶'
+  lore:
+    - '&7挖掘方解石时有10%概率掉落'
+  material_type: mc
+  material: BOOK
+LENGSHANG_XX_FGNWZSP:
+  lateInit: false
+  name: '&8反概念物质碎片'
+  lore:
+    - '&7此物品需要在 &5物质量化重塑模拟器 &7中获取'
+  material_type: mc
+  material: DISC_FRAGMENT_5
+LENGSHANG_XX_TSZBZZJ:
+  lateInit: false
+  name: '&9特殊装备制造机'
+  lore:
+    - '&7此物品需要在 &9特殊装备制造机 &7中制作'
+  material_type: mc
+  material: IRON_BLOCK
+LENGSHANG_XX_TSWPZZJ:
+  lateInit: false
+  name: '&e特殊物品制造机'
+  lore:
+    - '&7此物品需要在 &e特殊物品制造机 &7中制作'
+  material_type: mc
+  material: EMERALD_BLOCK
+LENGSHANG_XX_BLYLJ:
+  lateInit: false
+  name: '&b&l箔澜压力机'
+  lore:
+    - '&7此物品需要在 &b&l箔澜压力机 &7中制作'
+  material_type: mc
+  material: STICKY_PISTON
+LENGSHANG_XX_XWZ:
+  lateInit: false
+  name: '&9&l玄钨砧'
+  lore:
+    - '&7此物品需要在 &9&l玄钨砧 &7中制作'
+  material_type: mc
+  material: PISTON
+LENGSHANG_XX_YKCFJ:
+  lateInit: false
+  name: '&c&l陨空催肥机'
+  lore:
+    - '&7此物品需要在 &c&l陨空催肥机 &7中制作'
+  material_type: skull_hash
+  material: 144660ad45f000fff86a385ce573fe8ae10a46b0e1b0747480952acb9ee79e4e
+LENGSHANG_XX_XGLC:
+  lateInit: false
+  name: '&e&l星轨列车'
+  lore:
+    - '&7此物品需要在 &e&l星轨列车 &7中制作'
+  material_type: skull_hash
+  material: 6d5b0e3aa61162a3c6538985c5c11ceb96d5605b3ce9234c88f4fbd723475d
+LENGSHANG_XX_WZZSJ:
+  lateInit: false
+  name: '&4&l物质增生机'
+  lore:
+    - '&7此物品需要在 &4&l物质增生机 &7中制作'
+  material_type: skull_hash
+  material: 166fa6731ad8fba370be4b49fc5ab8b1756cd527d73335cef116cb4072dfd954
+LENGSHANG_XX_KPLXYS:
+  lateInit: false
+  name: '&d&l开普勒星云树'
+  lore:
+    - '&7此物品需要在 &d&l开普勒星云树 &7中制作'
+  material_type: skull_hash
+  material: f12a3efc96bb7a0b291f373719ad2e56ead4e895ef9cf6da6d7aca9eefad73cd
+LENGSHANG_XX_BLGZY:
+  lateInit: false
+  name: '&4&l箔澜光子仪'
+  lore:
+    - '&7此物品需要在 &4&l箔澜光子仪 &7中制作'
+  material_type: skull_hash
+  material: acab0965c20f1de03e799813ae9cb5e0942ebf6edfe99a0302547755cba78971
+LENGSHANG_XX_CYNH:
+  lateInit: false
+  name: '&9&l次元内核'
+  lore:
+    - '&7此物品需要在 &9&l次元内核 &7中制作'
+  material_type: skull_hash
+  material: 200c16738c372484628ca15cf7b0731b810bd3142e07c1053b5e3da6b6e523ca
+LENGSHANG_XX_BLXJ:
+  lateInit: false
+  name: '&9&l箔澜星舰'
+  lore:
+    - '&7此物品需要在 &9&l箔澜星舰 &7中制作'
+  material_type: skull_hash
+  material: 9d3f0af3241d61f79ebf8451fbd37bfe49cef3ae9af01bdfb0c02cbacb647cf7
+LENGSHANG_XX_XJZPT:
+  lateInit: false
+  name: '&6&l星际装配台'
+  lore:
+    - '&7此物品需要在 &6&l星际装配台 &7中制作'
+  material_type: mc
+  material: SMITHING_TABLE
+LENGSHANG_XX_XXCCJQR:
+  lateInit: false
+  name: '&d&l行星采集机器人'
+  lore:
+    - '&7此物品需要在 &d&l行星采集机器人 &7中获取'
+  material_type: skull_hash
+  material: 8774e1633d423795eec44f27e4ee8044e523baa619629ea75677389126d19f9b
+LENGSHANG_XX_LHYSJ:
+  lateInit: false
+  name: '{#ADDF4E}量化压缩机'
+  lore:
+    - '&7此物品需要在 {#ADDF4E}量化压缩机 &7中制作'
+  material_type: mc
+  material: SLIME_BLOCK

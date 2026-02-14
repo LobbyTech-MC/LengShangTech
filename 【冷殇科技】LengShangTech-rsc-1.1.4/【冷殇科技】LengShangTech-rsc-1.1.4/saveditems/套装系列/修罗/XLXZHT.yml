@@ -1,0 +1,42 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"#ff0040","text":"修罗·行者护腿"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"修罗行者，步履所至，山河皆颤。"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"护腿铭刻血纹，聚敛杀意，赐祝福于修罗之躯。"}],"text":""}'
+    enchants:
+      PROTECTION_EXPLOSIONS: 255
+      PROTECTION_FIRE: 255
+      PROTECTION_PROJECTILE: 255
+      PROTECTION_ENVIRONMENTAL: 255
+      THORNS: 255
+    attribute-modifiers:
+      minecraft:generic.armor:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 5201314.0
+          name: "generic.armor"
+          slot: LEGS
+          uuid: 1200002d-0000-003e-0000-004000000014
+          operation: 0
+      minecraft:generic.armor_toughness:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 5201314.0
+          name: "generic.armor_toughness"
+          slot: LEGS
+          uuid: 1200002d-0000-003e-0000-004000000015
+          operation: 0
+      minecraft:generic.knockback_resistance:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 0.1
+          name: "generic.knockback_resistance"
+          slot: LEGS
+          uuid: 1200002d-0000-003e-0000-004000000016
+          operation: 0
+    Unbreakable: true
+    PublicBukkitValues:
+      slimefun:slimefun_item: INFINITY_LEGGINGS

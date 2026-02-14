@@ -1,0 +1,28 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"#ff0040","text":"修罗·破界神镐"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"一镐挥出，界壁崩裂；万界皆破，唯修罗独存。"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"镐尖所指，虚空塌陷，空间如玻璃般寸寸粉碎。"}],"text":""}'
+      - '{"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"冷殇"},{"bold":false,"italic":false,"color":"gray","text":"：暂时移除技能，等待更新技能"}],"text":""}'
+    enchants:
+      DIG_SPEED: 255
+      LOOT_BONUS_BLOCKS: 255
+      DAMAGE_ALL: 255
+      DAMAGE_UNDEAD: 255
+      DAMAGE_ARTHROPODS: 255
+    Unbreakable: true
+    attribute-modifiers:
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 150.0
+        name: ResourceKey[minecraft:attribute / minecraft:generic.attack_damage]
+        slot: HAND
+        uuid: f86720fa-bf92-4a9d-a19b-d2ee085fd040
+        operation: 0

@@ -1,0 +1,29 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_SHOVEL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"#ff0040","text":"修罗·移山灵锹"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"锹锋落地，尘盾瞬成；一瞬之壁，万矢莫入。"}],"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"锹锋指天，山崩岩落；岩雨倾盆，震慑万灵。"}],"text":""}'
+      - '{"text":""}'
+      - '{"extra":[{"bold":false,"italic":false,"color":"#ff0040","text":"冷殇"},{"bold":false,"italic":false,"color":"gray","text":"：暂时移除技能，等待更新技能"}],"text":""}'
+    enchants:
+      DIG_SPEED: 255
+      LOOT_BONUS_BLOCKS: 255
+      SILK_TOUCH: 1
+      DAMAGE_ALL: 255
+      DAMAGE_UNDEAD: 255
+      DAMAGE_ARTHROPODS: 255
+    Unbreakable: true
+    attribute-modifiers:
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 100.0
+        name: ResourceKey[minecraft:attribute / minecraft:generic.attack_damage]
+        slot: HAND
+        uuid: 4a7aaef3-bee1-494d-aff4-57fa4d2b3702
+        operation: 0

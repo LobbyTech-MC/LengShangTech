@@ -1,0 +1,29 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3955
+  type: BLAZE_ROD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"color":"#FF4D00","text":"撑天杆"}],"text":""}'
+    lore:
+      - '{"extra":[{"bold":false,"italic":false,"color":"#FF4D00","text":"擎杆即长，身如山岳，一瞬撑开天地隙。"}],"text":""}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 1
+    attribute-modifiers:
+      minecraft:generic.scale:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 100.0
+          name: generic.scale
+          slot: hand
+          uuid: 00000009-0010-0011-0012-000000000012
+          operation: 0
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 100.0
+          name: generic.scale
+          slot: off_hand
+          uuid: 00000009-0010-0011-0012-000000000016
+          operation: 0
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

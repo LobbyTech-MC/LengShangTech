@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CYAN_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"古","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#DCDAE0","bold":false},{"text":"代","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#DCDAE0","bold":false},{"text":"祭","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#DCDAE0","bold":false},{"text":"坛","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#DCDAE0","bold":false},{"text":"蓝","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#DCDAE0","bold":false},{"text":"图","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#DCDAE0","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'

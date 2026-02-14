@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: RED_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"魔","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#90A3E2","bold":false},{"text":"法","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#90A3E2","bold":false},{"text":"工","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#90A3E2","bold":false},{"text":"作","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#90A3E2","bold":false},{"text":"台","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#90A3E2","bold":false},{"text":"蓝","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#90A3E2","bold":false},{"text":"图","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#90A3E2","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'

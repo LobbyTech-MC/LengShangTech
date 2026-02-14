@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: PINK_DYE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"压","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#B5F092","bold":false},{"text":"缩","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#A7D895","bold":false},{"text":"机","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#99C198","bold":false},{"text":"蓝","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8BA99B","bold":false},{"text":"图","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#7D929E","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"-----仅供展示-----","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8965B0","bold":false}]}'

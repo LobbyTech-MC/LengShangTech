@@ -1,0 +1,18 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3955
+  type: CROSSBOW
+  meta:
+    ==: ItemMeta
+    meta-type: CROSSBOW
+    display-name: '{"text":"§9诸葛连弩"}'
+    lore:
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"传闻这是诸葛亮使用的兵器"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":可以快速射击造成连弩的效果}],"text":""}'
+    enchants:
+      minecraft:quick_charge: 255
+    enchantment-glint-override: true
+    Unbreakable: true
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

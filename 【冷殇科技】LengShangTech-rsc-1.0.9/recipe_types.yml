@@ -1,0 +1,98 @@
+LENGSHANG_XX_M87WZNJQ:
+  lateInit: false
+  name: '{#F4A460}M87物质凝聚器'
+  lore:
+    - '&7此物品需要在 {#F4A460}M87物质凝聚器 &7中制作'
+  material_type: mc
+  material: ORANGE_CONCRETE
+LENGSHANG_XX_KJKYTJ:
+  lateInit: false
+  name: '{#2F4F4F}锟斤拷一体机'
+  lore:
+    - '&7此物品需要在 {#2F4F4F}锟斤拷一体机 &7中制作'
+  material_type: mc
+  material: POLISHED_DIORITE
+LENGSHANG_XX_HSNYRHJ:
+  lateInit: false
+  name: '{#FF4500}火山能源融合机'
+  lore:
+    - '&7此物品需要在 {#FF4500}火山能源融合机 &7中制作'
+  material_type: skull_hash
+  material: 68e4406c0f324f06f3e9b592675915f5e65a9b3a0358a680214d0e6229f6358
+LENGSHANG_XX_YSRLZZJ:
+  lateInit: false
+  name: '&b元素染料制造机'
+  lore:
+    - '&7此物品需要在 &b元素染料制造机 &7中制作'
+  material_type: mc
+  material: ENCHANTING_TABLE
+LENGSHANG_XX_CHZBDZJ:
+  lateInit: false
+  name: '&1彩&2虹&e装&c备&d锻造机'
+  lore:
+    - '&7此物品需要在 &1彩&2虹&e装&c备&d锻造机 &7中制作'
+  material_type: mc
+  material: ENCHANTING_TABLE
+LENGSHANG_XX_LSKJGZZ:
+  lateInit: false
+  name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&x&F&E&3&C&3&C工&x&F&A&1&6&6&9作&x&E&5&1&C&9&3站'
+  lore:
+    - '&7此物品需要在 &x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&x&F&E&3&C&3&C工&x&F&A&1&6&6&9作&x&E&5&1&C&9&3站 &7中制作'
+  material_type: mc
+  material: CRAFTING_TABLE
+LENGSHANG_XX_GNHXLMNQ:
+  lateInit: false
+  name: '&5概念化序列模拟器'
+  lore:
+    - '&7此物品需要在 &5概念化序列模拟器 &7中制作'
+  material_type: mc
+  material: BAMBOO_MOSAIC
+LENGSHANG_XX_DKSJJ:
+  lateInit: false
+  name: '&e电卡升级机'
+  lore:
+    - '&7此物品需要在 &e电卡升级机 &7中制作'
+  material_type: mc
+  material: CHISELED_SANDSTONE
+LENGSHANG_XX_LXZDGJJ:
+  lateInit: false
+  name: '&c乱序自动构建机'
+  lore:
+    - '&7此物品需要在 &c乱序自动构建机 &7中制作'
+  material_type: mc
+  material: DISPENSER
+LENGSHANG_XX_LSPQDGZJ:
+  lateInit: false
+  name: '&f冷殇牌奇点构造机'
+  lore:
+    - '&7此物品需要在 &f冷殇牌奇点构造机 &7中制作'
+  material_type: mc
+  material: QUARTZ_BRICKS
+LENGSHANG_XX_TMMH:
+  lateInit: false
+  name: '&6天&c命&d盲&5盒'
+  lore:
+    - '&7此物品需要在 &6天&c命&d盲&5盒 &7中获取'
+  material_type: skull_base64
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ZiYjQ1ZjRlYTFlNTRmODhlN2UwMDg1OWU4ZWM5YTU5ODI4MjNkODg4YjZlMWY2YWUxZDY5YTQxNGZmZjcwZiJ9fX0=
+LENGSHANG_XX_TMMHDHJ:
+  lateInit: false
+  name: '&6天&c命&d盲&5盒&a兑&b换&e机'
+  lore:
+    - '&7此物品需要在 &6天&c命&d盲&5盒&a兑&b换&e机 &7中获取'
+  material_type: skull_base64
+  material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ZiYjQ1ZjRlYTFlNTRmODhlN2UwMDg1OWU4ZWM5YTU5ODI4MjNkODg4YjZlMWY2YWUxZDY5YTQxNGZmZjcwZiJ9fX0=
+LENGSHANG_XX_DDGF:
+  lateInit: false
+  name: '&x&F&E&3&C&3&C堆&x&F&A&1&6&6&9叠&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊'
+  lore:
+    - '&7此物品需要在 &x&F&E&3&C&3&C堆&x&F&A&1&6&6&9叠&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊 &7中制作'
+  material_type: skull_hash
+  material: 289804b7986a1fe08e9e2966dcd286f72edb52870ceae74cc6f0e0574cbf41e3
+LENGSHANG_XX_LJGF:
+  lateInit: false
+  name: '&x&F&E&3&C&3&C炼&x&F&A&1&6&6&9金&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊'
+  lore:
+    - '&7此物品需要在 &x&F&E&3&C&3&C炼&x&F&A&1&6&6&9金&x&E&5&1&C&9&3工&x&B&C&3&B&B&7坊 &7中制作'
+  material_type: mc
+  material: BREWING_STAND 
